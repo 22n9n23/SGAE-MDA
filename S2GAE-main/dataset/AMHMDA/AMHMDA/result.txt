@@ -1,0 +1,13 @@
+##### Final Testing result
+AUC
+All runs:
+Highest Train: 98.71 ± 0.06
+Highest Valid: 96.87 ± 0.04
+  Final Train: 98.71 ± 0.06
+   Final Test: 96.84 ± 0.06
+AP
+All runs:
+Highest Train: 98.45 ± 0.07
+Highest Valid: 96.51 ± 0.05
+  Final Train: 98.45 ± 0.07
+   Final Test: 96.47 ± 0.07
